@@ -4,7 +4,7 @@
   <img src="assets/pinocchio.png" alt="Pinocchio" width="128" height="128">
 </p>
 
-A curated list of projects, examples, tools, and libraries built with or for [Pinocchio](https://github.com/anza-xyz/pinocchio), the minimal Solana runtime for smart contract development.
+A curated list of projects, examples, tools, and libraries built with or for [Pinocchio](https://github.com/anza-xyz/pinocchio), the minimal Solana runtime for program development.
 
 Pinocchio enables lightweight, composable, and fast Solana programs with `no_std` and high modularity.
 
@@ -12,7 +12,7 @@ Pinocchio enables lightweight, composable, and fast Solana programs with `no_std
 
 ## 🧠 Core Libraries & Starters
 
-- [Pinocchio (core)](https://github.com/anza-xyz/pinocchio) - The base library for building minimal Solana smart contracts.
+- [Pinocchio (core)](https://github.com/anza-xyz/pinocchio) - The base library for building minimal Solana programs.
 - [Solana Pinocchio Starter](https://github.com/Nagaprasadvr/solana-pinocchio-starter) - Boilerplate to kickstart a Pinocchio program.
 - [Pinocchio Template](https://github.com/exo-tech-xyz/pinocchio-project) - Template repository for new projects using Pinocchio.
 - [Pinocchio CLI Init](https://github.com/bidhan-a/pinocchio-init) - Tool for initializing new Pinocchio programs.
