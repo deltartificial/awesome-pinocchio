@@ -6,7 +6,7 @@
 
 A curated list of projects, examples, tools, and libraries built with or for [Pinocchio](https://github.com/anza-xyz/pinocchio), the minimal Solana runtime for smart contract development.
 
-Pinocchio enables lightweight, composable, and fast Solana programs with no_std and high modularity.
+Pinocchio enables lightweight, composable, and fast Solana programs with `no_std` and high modularity.
 
 ---
 
