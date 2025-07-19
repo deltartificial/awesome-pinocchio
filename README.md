@@ -59,6 +59,12 @@ Pinocchio enables lightweight, composable, and fast Solana programs with `no_std
 
 ---
 
+## 📚 Learning Resources
+
+- [Introduction to Pinocchio (Blueshift)](https://learn.blueshift.gg/en/courses/introduction-to-pinocchio/pinocchio-101) - Comprehensive course covering Pinocchio fundamentals, accounts, instructions, and native development patterns.
+
+---
+
 ## 📈 Specialized Engines
 
 - [Pinocchio Funding Engine (p-stockpile)](https://github.com/adlonymous/p-stockpile) - Experimental funding/open interest engine built in Pinocchio.
